@@ -1,0 +1,1554 @@
+changeset:   266:484988682259
+tag:         tip
+user:        Richard Laughlin
+date:        Thu Apr 05 18:27:53 2012 -0400
+summary:     Fixed the error with the Logger and GameUI that caused the crash during todays presentation.
+
+changeset:   265:8b54e81c26a4
+parent:      264:cca7ac373dca
+parent:      263:c6c79152bc67
+user:        Jonathon Shippling
+date:        Thu Apr 05 17:54:05 2012 -0400
+summary:     merge pt 2
+
+changeset:   264:cca7ac373dca
+parent:      262:d9161fa86930
+parent:      260:7088c04b789d
+user:        Jonathon Shippling
+date:        Thu Apr 05 17:49:07 2012 -0400
+summary:     merge
+
+changeset:   263:c6c79152bc67
+parent:      262:d9161fa86930
+parent:      260:7088c04b789d
+user:        Jonathon Shippling
+date:        Thu Apr 05 17:35:10 2012 -0400
+summary:     merge
+
+changeset:   262:d9161fa86930
+user:        Jonathon Shippling
+date:        Thu Apr 05 17:34:24 2012 -0400
+summary:     Backed out changeset: 531ac04c09ff
+
+changeset:   261:531ac04c09ff
+parent:      251:f12a21469798
+user:        Jonathon Shippling
+date:        Thu Apr 05 17:32:17 2012 -0400
+summary:     updating documents
+
+changeset:   260:7088c04b789d
+user:        Aaron D
+date:        Thu Apr 05 12:11:05 2012 -0400
+summary:     CRCcards done
+
+changeset:   259:8f21fa017351
+parent:      258:287db167ffbe
+parent:      257:7d77f0e83ea6
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Wed Apr 04 22:27:20 2012 -0400
+summary:     merge
+
+changeset:   258:287db167ffbe
+parent:      254:a176cd8d970a
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Wed Apr 04 22:27:07 2012 -0400
+summary:     preso
+
+changeset:   257:7d77f0e83ea6
+user:        Jason Greaves
+date:        Wed Apr 04 22:22:05 2012 -0400
+summary:     CRC card
+
+changeset:   256:73b8139b97a5
+user:        Jason Greaves
+date:        Wed Apr 04 22:19:13 2012 -0400
+summary:     CRC card
+
+changeset:   255:92cd9a0c1f45
+parent:      252:6a71dd1b8829
+parent:      254:a176cd8d970a
+user:        Richard Laughlin
+date:        Wed Apr 04 21:06:45 2012 -0400
+summary:     merge commit
+
+changeset:   254:a176cd8d970a
+parent:      253:6bf04820f3e0
+parent:      251:f12a21469798
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Wed Apr 04 20:58:22 2012 -0400
+summary:     merge
+
+changeset:   253:6bf04820f3e0
+parent:      243:a0b084b52245
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Wed Apr 04 20:58:15 2012 -0400
+summary:     presentation stuff
+
+changeset:   252:6a71dd1b8829
+user:        Richard Laughlin
+date:        Wed Apr 04 21:06:33 2012 -0400
+summary:     Added the file listing
+
+changeset:   251:f12a21469798
+user:        Richard Laughlin
+date:        Wed Apr 04 20:51:10 2012 -0400
+summary:     Moved README.txt
+
+changeset:   250:306978e76f54
+parent:      247:f390a7666faf
+parent:      249:d4201b892528
+user:        Richard Laughlin
+date:        Wed Apr 04 20:50:23 2012 -0400
+summary:     Merge commit
+
+changeset:   249:d4201b892528
+parent:      248:3b4ae3302436
+parent:      246:061f5cec3fe9
+user:        Aaron D
+date:        Wed Apr 04 20:45:53 2012 -0400
+summary:     README.txt
+
+changeset:   248:3b4ae3302436
+parent:      237:ca863695debc
+user:        Aaron D
+date:        Wed Apr 04 20:45:27 2012 -0400
+summary:     README.txt
+
+changeset:   247:f390a7666faf
+user:        Richard Laughlin
+date:        Wed Apr 04 20:49:40 2012 -0400
+summary:     Added a start.bat. Added some log messages, and updated the .jar
+
+changeset:   246:061f5cec3fe9
+parent:      241:0d896875643d
+parent:      245:0faaacf72d7f
+user:        Richard Laughlin
+date:        Wed Apr 04 20:43:41 2012 -0400
+summary:     merge commit
+
+changeset:   245:0faaacf72d7f
+parent:      244:af972f3fd310
+parent:      243:a0b084b52245
+user:        Jonathon Shippling
+date:        Wed Apr 04 20:27:51 2012 -0400
+summary:     merge
+
+changeset:   244:af972f3fd310
+parent:      240:d7ad8c466b61
+user:        Jonathon Shippling
+date:        Wed Apr 04 20:27:09 2012 -0400
+summary:     Updating design.docx
+
+changeset:   243:a0b084b52245
+parent:      242:2bcef49471d4
+parent:      240:d7ad8c466b61
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Wed Apr 04 20:25:25 2012 -0400
+summary:     merge
+
+changeset:   242:2bcef49471d4
+parent:      231:07a477e96ae1
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Wed Apr 04 20:25:14 2012 -0400
+summary:     design modifications
+
+changeset:   241:0d896875643d
+user:        Richard Laughlin
+date:        Wed Apr 04 20:43:16 2012 -0400
+summary:     Fixed another issue with the logger.
+
+changeset:   240:d7ad8c466b61
+user:        Richard Laughlin
+date:        Wed Apr 04 20:08:27 2012 -0400
+summary:     Added the release/ directory
+
+changeset:   239:9d90f9dfa969
+user:        Richard Laughlin
+date:        Wed Apr 04 20:07:45 2012 -0400
+summary:     Changing .hgignore. Forgot to hg add (like a derp)
+
+changeset:   238:5a40a9bf8dc1
+user:        Richard Laughlin
+date:        Wed Apr 04 20:06:48 2012 -0400
+summary:     Fixed an issue with the jar when using setExtendedState on linux.
+
+changeset:   237:ca863695debc
+user:        Richard Laughlin
+date:        Wed Apr 04 19:54:51 2012 -0400
+summary:     Changed the default wait time to 30 seconds.
+
+changeset:   236:599d8015bf7b
+parent:      233:da434dff15fb
+parent:      235:7ef4705385d9
+user:        Richard Laughlin
+date:        Wed Apr 04 19:50:38 2012 -0400
+summary:     Merge commit
+
+changeset:   235:7ef4705385d9
+parent:      234:591a3d585de6
+parent:      232:048abd6cced9
+user:        Jonathon Shippling
+date:        Wed Apr 04 19:48:01 2012 -0400
+summary:     merge
+
+changeset:   234:591a3d585de6
+parent:      231:07a477e96ae1
+user:        Jonathon Shippling
+date:        Wed Apr 04 19:47:35 2012 -0400
+summary:     todo list
+
+changeset:   233:da434dff15fb
+user:        Richard Laughlin
+date:        Wed Apr 04 19:50:05 2012 -0400
+summary:     Fixed a minor error where files that do not exist could be considered folders (and thus cause an error).
+
+changeset:   232:048abd6cced9
+user:        Richard Laughlin
+date:        Wed Apr 04 19:43:32 2012 -0400
+summary:     Fixed a minor issue with closing the timer window.
+
+changeset:   231:07a477e96ae1
+parent:      229:60febdc937be
+parent:      230:af020b87849a
+user:        Richard Laughlin
+date:        Wed Apr 04 19:34:02 2012 -0400
+summary:     merge commit
+
+changeset:   230:af020b87849a
+parent:      228:330fac4d8d18
+user:        Jonathon Shippling
+date:        Wed Apr 04 19:19:31 2012 -0400
+summary:     Created todo list and design.docx
+
+changeset:   229:60febdc937be
+user:        Richard Laughlin
+date:        Wed Apr 04 19:33:43 2012 -0400
+summary:     Fixed the timer to be more accurate.
+
+changeset:   228:330fac4d8d18
+user:        Richard Laughlin
+date:        Tue Apr 03 10:53:37 2012 -0400
+summary:     Final commit before BED.
+
+changeset:   227:0e399a2c7f19
+user:        Richard Laughlin
+date:        Tue Apr 03 10:24:58 2012 -0400
+summary:     One more minor fix. The evil bug should finally be purged.
+
+changeset:   226:e80cf69610bb
+parent:      219:8fe2e7ac3dc3
+parent:      225:4a29798fa533
+user:        Richard Laughlin
+date:        Tue Apr 03 09:50:28 2012 -0400
+summary:     merge commit
+
+changeset:   225:4a29798fa533
+user:        Jonathon Shippling
+date:        Tue Apr 03 09:46:24 2012 -0400
+summary:     Created design.docx
+
+changeset:   224:b676a5ac9ed6
+user:        Jason Greaves
+date:        Tue Apr 03 09:35:28 2012 -0400
+summary:     CompDif2
+
+changeset:   223:677b5fc682b3
+parent:      221:f8fbea66018e
+parent:      222:248ffec8a135
+user:        Jason Greaves
+date:        Tue Apr 03 09:35:09 2012 -0400
+summary:     Automated merge
+
+changeset:   222:248ffec8a135
+parent:      218:4ef124be99a7
+user:        Jason Greaves
+date:        Tue Apr 03 09:34:46 2012 -0400
+summary:     CompDif2
+
+changeset:   221:f8fbea66018e
+parent:      220:81706e53f378
+parent:      218:4ef124be99a7
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Tue Apr 03 09:15:56 2012 -0400
+summary:     merge
+
+changeset:   220:81706e53f378
+parent:      216:fc53497e62cf
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Tue Apr 03 09:15:47 2012 -0400
+summary:     design change
+
+changeset:   219:8fe2e7ac3dc3
+user:        Richard Laughlin
+date:        Tue Apr 03 09:50:10 2012 -0400
+summary:     Fixed the bug. (I hope)
+
+changeset:   218:4ef124be99a7
+user:        Richard Laughlin
+date:        Tue Apr 03 09:00:36 2012 -0400
+summary:     Fixed an error
+
+changeset:   217:469373624e1a
+user:        Richard Laughlin
+date:        Tue Apr 03 08:39:57 2012 -0400
+summary:     Fixed warnings.
+
+changeset:   216:fc53497e62cf
+user:        Richard Laughlin
+date:        Tue Apr 03 07:44:18 2012 -0400
+summary:     More refactoring to remove ArrayList. We now use actual arrays.
+
+changeset:   215:e7058aa69879
+user:        Richard Laughlin
+date:        Tue Apr 03 06:57:51 2012 -0400
+summary:     More Logger work. Also removal of debug statements.
+
+changeset:   214:01d70e3a9775
+user:        Richard Laughlin
+date:        Tue Apr 03 06:49:15 2012 -0400
+summary:     Fixed the hanging on shutdown issue. Some tidying up in various places. Logger output now uses proper strings.
+
+changeset:   213:6ddf839051ae
+user:        Richard Laughlin
+date:        Tue Apr 03 06:28:14 2012 -0400
+summary:     Refactored all uses of java.awt.Color to now use the enum model.Color. This is for the purpose of pretty printing.
+
+changeset:   212:b5cd53e738c8
+user:        Richard Laughlin
+date:        Tue Apr 03 06:01:37 2012 -0400
+summary:     Got Timer functionality working. Added in checking for the log file.
+
+changeset:   211:dd6285d9c7e2
+user:        Richard Laughlin
+date:        Tue Apr 03 04:42:15 2012 -0400
+summary:     More touchup work of the actual computer player and UI.
+
+changeset:   210:960ea00fcbed
+user:        Richard Laughlin
+date:        Tue Apr 03 04:05:45 2012 -0400
+summary:     Fixed some issues with switching
+
+changeset:   209:7f86c2555f31
+user:        Richard Laughlin
+date:        Tue Apr 03 03:51:30 2012 -0400
+summary:     Fixed a few minor things
+
+changeset:   208:508125777456
+user:        Richard Laughlin
+date:        Tue Apr 03 03:49:00 2012 -0400
+summary:     Computer Players now work.
+
+changeset:   207:4d2d0fb48468
+parent:      205:5b25747cca3f
+parent:      206:6b6804dc8560
+user:        Richard Laughlin
+date:        Tue Apr 03 03:21:57 2012 -0400
+summary:     merge
+
+changeset:   206:6b6804dc8560
+parent:      204:41e6b8e18c6d
+user:        Aaron D
+date:        Tue Apr 03 01:59:53 2012 -0400
+summary:     MoveStack is not dumb no more
+
+changeset:   205:5b25747cca3f
+user:        Richard Laughlin
+date:        Tue Apr 03 03:21:41 2012 -0400
+summary:     Got computer player partially working
+
+changeset:   204:41e6b8e18c6d
+parent:      203:b85ee3bc601c
+parent:      201:4dbbd7ab9a4e
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Tue Apr 03 01:49:38 2012 -0400
+summary:     merge
+
+changeset:   203:b85ee3bc601c
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Tue Apr 03 01:49:32 2012 -0400
+summary:     something
+
+changeset:   202:4df2d748a7ef
+parent:      199:db35d5a87b53
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Tue Apr 03 01:48:34 2012 -0400
+summary:     color chooser in guess is working
+
+changeset:   201:4dbbd7ab9a4e
+user:        Aaron D
+date:        Tue Apr 03 01:47:40 2012 -0400
+summary:     Fixed the movestack, yo
+
+changeset:   200:0af0d77adecd
+user:        Jason Greaves
+date:        Tue Apr 03 01:38:56 2012 -0400
+summary:     Updated the undoPanel
+
+changeset:   199:db35d5a87b53
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Tue Apr 03 01:35:32 2012 -0400
+summary:     GameUI switched
+
+changeset:   198:479683c3cf3f
+parent:      197:7e67ace3f501
+parent:      196:eb4e05302303
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Tue Apr 03 01:32:50 2012 -0400
+summary:     merge
+
+changeset:   197:7e67ace3f501
+parent:      195:d2156a0b72cf
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Tue Apr 03 01:32:44 2012 -0400
+summary:     made color chooser more variable
+
+changeset:   196:eb4e05302303
+user:        Aaron D
+date:        Tue Apr 03 01:30:44 2012 -0400
+summary:     Fucking breaker switching
+
+changeset:   195:d2156a0b72cf
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Tue Apr 03 01:27:39 2012 -0400
+summary:     her a color chooser
+
+changeset:   194:ec5eebbadd3a
+user:        Jason Greaves
+date:        Tue Apr 03 01:09:24 2012 -0400
+summary:     Comments yo.
+
+changeset:   193:9adcdd40f7ad
+user:        Richard Laughlin
+date:        Tue Apr 03 01:05:12 2012 -0400
+summary:     centered the generate code ui
+
+changeset:   192:c6a1dad09eb5
+user:        Richard Laughlin
+date:        Tue Apr 03 00:58:50 2012 -0400
+summary:     Fixed an oopsie in my last commit.
+
+changeset:   191:7c4303d5d4f0
+user:        Richard Laughlin
+date:        Tue Apr 03 00:57:31 2012 -0400
+summary:     Added some comments. Cleaned up the Client.java to use the Swing.InvokeLater method.
+
+changeset:   190:4f74a1e4e200
+parent:      189:f845878695cb
+parent:      187:939fda041f7a
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Tue Apr 03 00:27:14 2012 -0400
+summary:     merge
+
+changeset:   189:f845878695cb
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Tue Apr 03 00:27:08 2012 -0400
+summary:     something
+
+changeset:   188:2d339946cd48
+parent:      186:c0b980400c4b
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Tue Apr 03 00:23:04 2012 -0400
+summary:     logging is somewheat working
+
+changeset:   187:939fda041f7a
+user:        Aaron D
+date:        Tue Apr 03 00:25:19 2012 -0400
+summary:     Logging and stuff
+
+changeset:   186:c0b980400c4b
+parent:      185:096fadd7fd36
+parent:      183:b7b2ffd8f24c
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Tue Apr 03 00:13:49 2012 -0400
+summary:     merge
+
+changeset:   185:096fadd7fd36
+parent:      184:b862d986fa02
+parent:      182:163af48d4ab8
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Tue Apr 03 00:04:49 2012 -0400
+summary:     merge
+
+changeset:   184:b862d986fa02
+parent:      178:ea91b4bfcd5a
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Tue Apr 03 00:04:41 2012 -0400
+summary:     logger in the code
+
+changeset:   183:b7b2ffd8f24c
+user:        Richard Laughlin
+date:        Tue Apr 03 00:11:46 2012 -0400
+summary:     Added logging event & setup the gui
+
+changeset:   182:163af48d4ab8
+user:        Richard Laughlin
+date:        Tue Apr 03 00:03:30 2012 -0400
+summary:     Added a LoggingStateEvent
+
+changeset:   181:49d319136d2e
+parent:      179:de0a47649d78
+parent:      180:fe2b2807b4d4
+user:        Richard Laughlin
+date:        Mon Apr 02 23:58:37 2012 -0400
+summary:     merge commit
+
+changeset:   180:fe2b2807b4d4
+parent:      178:ea91b4bfcd5a
+user:        Jonathon Shippling
+date:        Mon Apr 02 23:50:02 2012 -0400
+summary:     merge
+
+changeset:   179:de0a47649d78
+user:        Richard Laughlin
+date:        Mon Apr 02 23:58:23 2012 -0400
+summary:     Tidy work
+
+changeset:   178:ea91b4bfcd5a
+parent:      176:53b1fc185d21
+parent:      177:29c049c8138c
+user:        Richard Laughlin
+date:        Mon Apr 02 23:47:27 2012 -0400
+summary:     Merge commit
+
+changeset:   177:29c049c8138c
+parent:      175:0827baa9978d
+user:        Jason Greaves
+date:        Mon Apr 02 23:47:13 2012 -0400
+summary:     Small fixes fo sho
+
+changeset:   176:53b1fc185d21
+user:        Richard Laughlin
+date:        Mon Apr 02 23:47:13 2012 -0400
+summary:     Fixed New Game, so that the Secret code can be changed.
+
+changeset:   175:0827baa9978d
+user:        Richard Laughlin
+date:        Mon Apr 02 23:44:40 2012 -0400
+summary:     Removed debug messages
+
+changeset:   174:2b56c2224e50
+parent:      173:bedded602c45
+parent:      172:28b2531aa80f
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 23:40:18 2012 -0400
+summary:     merge:
+
+changeset:   173:bedded602c45
+parent:      168:ddda11a612a3
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 23:28:39 2012 -0400
+summary:     new game listener
+
+changeset:   172:28b2531aa80f
+user:        Richard Laughlin
+date:        Mon Apr 02 23:37:50 2012 -0400
+summary:     New Game now works.
+
+changeset:   171:e450d52e1231
+parent:      169:8f6bb07514ca
+parent:      170:2d01f5757e7b
+user:        Richard Laughlin
+date:        Mon Apr 02 23:32:49 2012 -0400
+summary:     merge commit
+
+changeset:   170:2d01f5757e7b
+parent:      168:ddda11a612a3
+user:        Jonathon Shippling
+date:        Mon Apr 02 23:24:38 2012 -0400
+summary:     Added popups
+
+changeset:   169:8f6bb07514ca
+user:        Richard Laughlin
+date:        Mon Apr 02 23:32:14 2012 -0400
+summary:     Added a NewGameEvent. Hooked up the GameModel to handle it.
+
+changeset:   168:ddda11a612a3
+user:        Richard Laughlin
+date:        Mon Apr 02 23:23:24 2012 -0400
+summary:     Fixed a commenting issue. Added end of game support.
+
+changeset:   167:015fa1106c02
+user:        Richard Laughlin
+date:        Mon Apr 02 23:09:06 2012 -0400
+summary:     Added the SetSecretCode Event.
+
+changeset:   166:9d084d6d19e4
+parent:      160:45cb68747296
+parent:      165:fc87544e723e
+user:        Richard Laughlin
+date:        Mon Apr 02 23:06:38 2012 -0400
+summary:     merge commit
+
+changeset:   165:fc87544e723e
+parent:      164:41f0b34e4403
+parent:      161:61c42cc1ed7b
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 23:04:05 2012 -0400
+summary:     Merge
+
+changeset:   164:41f0b34e4403
+parent:      163:7ff15544b12c
+parent:      159:0ca30011ebdb
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 23:03:38 2012 -0400
+summary:     Merge
+
+changeset:   163:7ff15544b12c
+parent:      162:a4f9a2b76e37
+parent:      158:c03bc0b0b6bc
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 23:03:28 2012 -0400
+summary:     Merge
+
+changeset:   162:a4f9a2b76e37
+parent:      155:220129916ba6
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 23:03:08 2012 -0400
+summary:     added playerswitching stuff
+
+changeset:   161:61c42cc1ed7b
+parent:      159:0ca30011ebdb
+user:        Jason Greaves
+date:        Mon Apr 02 23:03:05 2012 -0400
+summary:     Integrated GenerateCodeUI
+
+changeset:   160:45cb68747296
+user:        Richard Laughlin
+date:        Mon Apr 02 23:06:24 2012 -0400
+summary:     Fixed more redo issues.
+
+changeset:   159:0ca30011ebdb
+parent:      157:7adff09f62f4
+parent:      158:c03bc0b0b6bc
+user:        Richard Laughlin
+date:        Mon Apr 02 23:02:36 2012 -0400
+summary:     merge commit
+
+changeset:   158:c03bc0b0b6bc
+parent:      156:2c9a86b037d8
+user:        Aaron D
+date:        Mon Apr 02 22:57:49 2012 -0400
+summary:     Win messages
+
+changeset:   157:7adff09f62f4
+user:        Richard Laughlin
+date:        Mon Apr 02 23:02:18 2012 -0400
+summary:     Fixed redo issues.
+
+changeset:   156:2c9a86b037d8
+user:        Richard Laughlin
+date:        Mon Apr 02 22:52:18 2012 -0400
+summary:     Fixed an error in MoveStack causing problems with undoing to the very beginning (off by 1 error)
+
+changeset:   155:220129916ba6
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 22:51:26 2012 -0400
+summary:     fixeed undo partial moves
+
+changeset:   154:78fc47495bd7
+user:        Richard Laughlin
+date:        Mon Apr 02 22:43:25 2012 -0400
+summary:     Fixed an error. We now see progress.
+
+changeset:   153:f7428f4627a8
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 22:37:46 2012 -0400
+summary:     second fix
+
+changeset:   152:b4d0854eef1b
+user:        Jason Greaves
+date:        Mon Apr 02 22:30:15 2012 -0400
+summary:     HOLY SHIT YOU GUYS PROGRESS.
+
+changeset:   151:085de0a34a6f
+parent:      150:a0d46eb561d1
+parent:      149:d9b2cc7fde7d
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 22:21:54 2012 -0400
+summary:     merge
+
+changeset:   150:a0d46eb561d1
+parent:      146:446f3dfdf4ea
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 22:21:44 2012 -0400
+summary:     stuffs
+
+changeset:   149:d9b2cc7fde7d
+parent:      147:d1c1532ee9e3
+parent:      148:224ca9b71516
+user:        Richard Laughlin
+date:        Mon Apr 02 22:17:46 2012 -0400
+summary:     merge commit
+
+changeset:   148:224ca9b71516
+parent:      146:446f3dfdf4ea
+user:        Jonathon Shippling
+date:        Mon Apr 02 22:17:13 2012 -0400
+summary:     Fixing tests
+
+changeset:   147:d1c1532ee9e3
+user:        Richard Laughlin
+date:        Mon Apr 02 22:17:22 2012 -0400
+summary:     Fixed some minor issues, so now the GameModel replies properly
+
+changeset:   146:446f3dfdf4ea
+parent:      145:238bec9e6df3
+parent:      140:087de29a8722
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 21:53:43 2012 -0400
+summary:     merge
+
+changeset:   145:238bec9e6df3
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 21:53:37 2012 -0400
+summary:     stuff
+
+changeset:   144:fb1c004b7703
+parent:      143:228657eaff70
+parent:      139:9557857672d1
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 21:50:14 2012 -0400
+summary:     merge
+
+changeset:   143:228657eaff70
+parent:      142:72c396944b4f
+parent:      138:de40a9ff1d27
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 21:50:06 2012 -0400
+summary:     fixes
+
+changeset:   142:72c396944b4f
+parent:      141:f6926f23b1be
+parent:      137:3329f6be71c2
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 21:31:34 2012 -0400
+summary:     merge
+
+changeset:   141:f6926f23b1be
+parent:      135:9fb6a9382848
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 21:31:23 2012 -0400
+summary:     feedback
+
+changeset:   140:087de29a8722
+user:        Jason Greaves
+date:        Mon Apr 02 21:52:39 2012 -0400
+summary:     Ok seriously this time.
+
+changeset:   139:9557857672d1
+user:        Jason Greaves
+date:        Mon Apr 02 21:34:08 2012 -0400
+summary:     Ok seriously this time.
+
+changeset:   138:de40a9ff1d27
+user:        Jason Greaves
+date:        Mon Apr 02 21:33:05 2012 -0400
+summary:     This time for real Fixed up HumanUI
+
+changeset:   137:3329f6be71c2
+user:        Jason Greaves
+date:        Mon Apr 02 21:30:35 2012 -0400
+summary:     Fixed up HumanUI
+
+changeset:   136:e754c29d0c0f
+user:        Richard Laughlin
+date:        Mon Apr 02 21:18:24 2012 -0400
+summary:     merge
+
+changeset:   135:9fb6a9382848
+user:        Jason Greaves
+date:        Mon Apr 02 21:16:56 2012 -0400
+summary:     sd
+
+changeset:   134:f16c5aca0b6d
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 21:03:39 2012 -0400
+summary:     damn big buttons
+
+changeset:   133:c446a4b794dc
+parent:      132:5bab73cb09c9
+parent:      129:1a650530c6ad
+user:        Richard Laughlin
+date:        Mon Apr 02 20:48:35 2012 -0400
+summary:     merge commit
+
+changeset:   132:5bab73cb09c9
+user:        Richard Laughlin
+date:        Mon Apr 02 20:45:57 2012 -0400
+summary:     Modified AdvanceRequestEvent and GameModel to support passing of data from the UI.
+
+changeset:   131:d22f09ca40cc
+user:        Richard Laughlin
+date:        Mon Apr 02 20:29:07 2012 -0400
+summary:     Changed the default codemaker to a computer player.
+
+changeset:   130:9ee25f5e07b5
+parent:      128:7378acc4b115
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 20:27:39 2012 -0400
+summary:     fix stuff
+
+changeset:   129:1a650530c6ad
+parent:      125:d4ccdb7d8779
+user:        Richard Laughlin
+date:        Mon Apr 02 20:21:36 2012 -0400
+summary:     merge commit
+
+changeset:   128:7378acc4b115
+parent:      127:444f72296f40
+parent:      126:ba94fdbf1c56
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 20:21:45 2012 -0400
+summary:     merge
+
+changeset:   127:444f72296f40
+parent:      124:7f9562af1bcd
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 20:20:55 2012 -0400
+summary:     gameui
+
+changeset:   126:ba94fdbf1c56
+parent:      124:7f9562af1bcd
+user:        Jason Greaves
+date:        Mon Apr 02 20:19:52 2012 -0400
+summary:     ComputerUI
+
+changeset:   125:d4ccdb7d8779
+parent:      120:8d3be42f84b2
+parent:      124:7f9562af1bcd
+user:        Richard Laughlin
+date:        Mon Apr 02 20:14:28 2012 -0400
+summary:     merge commit
+
+changeset:   124:7f9562af1bcd
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 20:11:00 2012 -0400
+summary:     rotated display
+
+changeset:   123:29102ffe5278
+parent:      122:5005f316fdc1
+parent:      121:17d0985e3f89
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 19:59:36 2012 -0400
+summary:     merge
+
+changeset:   122:5005f316fdc1
+parent:      117:c0e4492ce7aa
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 19:59:29 2012 -0400
+summary:     stuffs
+
+changeset:   121:17d0985e3f89
+parent:      119:34972a934a4d
+user:        Aaron D
+date:        Mon Apr 02 19:44:55 2012 -0400
+summary:     Edited GameModel and GameModelTest
+
+changeset:   120:8d3be42f84b2
+user:        Richard Laughlin
+date:        Mon Apr 02 20:14:06 2012 -0400
+summary:     Made the MoveViewer thread safe
+
+changeset:   119:34972a934a4d
+parent:      118:48e7a42208ea
+parent:      117:c0e4492ce7aa
+user:        Richard Laughlin
+date:        Mon Apr 02 19:42:05 2012 -0400
+summary:     merge commit
+
+changeset:   118:48e7a42208ea
+parent:      115:72a02409136a
+user:        Richard Laughlin
+date:        Mon Apr 02 19:41:41 2012 -0400
+summary:     Undid changes to get ready for merge
+
+changeset:   117:c0e4492ce7aa
+parent:      116:865b4bcb9b72
+parent:      114:3b000bc6c977
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 19:38:44 2012 -0400
+summary:     merge
+
+changeset:   116:865b4bcb9b72
+parent:      112:8a3975eb9ba9
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 19:38:36 2012 -0400
+summary:     more gameui stuff
+
+changeset:   115:72a02409136a
+user:        Richard Laughlin
+date:        Mon Apr 02 19:40:09 2012 -0400
+summary:     Removed an unnecessary import.
+
+changeset:   114:3b000bc6c977
+user:        Aaron D
+date:        Mon Apr 02 19:16:06 2012 -0400
+summary:     Now look at it
+
+changeset:   113:b044212e0d7d
+user:        Aaron D
+date:        Mon Apr 02 19:15:19 2012 -0400
+summary:     GameModelTest
+
+changeset:   112:8a3975eb9ba9
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 19:06:30 2012 -0400
+summary:     fixed up GameUI some
+
+changeset:   111:ed3d2068882b
+user:        Jason Greaves
+date:        Mon Apr 02 18:44:33 2012 -0400
+summary:     Generate code ui. Super cool.
+
+changeset:   110:ca98f2512da5
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 18:41:14 2012 -0400
+summary:     fixed alltests
+
+changeset:   109:9454ae8adb3c
+parent:      108:03a195bfbd34
+parent:      105:2560506385da
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 18:40:18 2012 -0400
+summary:     merge
+
+changeset:   108:03a195bfbd34
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 18:40:05 2012 -0400
+summary:     moveviewer may be wokring
+
+changeset:   107:f9757677281f
+parent:      106:70df766d195b
+parent:      104:65639842948a
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 18:38:02 2012 -0400
+summary:     merge
+
+changeset:   106:70df766d195b
+parent:      102:aad800bd5d11
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 18:35:17 2012 -0400
+summary:     move viewer stuff
+
+changeset:   105:2560506385da
+user:        Aaron D
+date:        Mon Apr 02 18:38:28 2012 -0400
+summary:     Maybe this will stop the complaining
+
+changeset:   104:65639842948a
+parent:      103:48f8671ae8fd
+parent:      102:aad800bd5d11
+user:        Aaron D
+date:        Mon Apr 02 18:36:27 2012 -0400
+summary:     Let's try this again
+
+changeset:   103:48f8671ae8fd
+parent:      101:9b8a5a96b141
+user:        Aaron D
+date:        Mon Apr 02 18:34:09 2012 -0400
+summary:     Changes made to GameModel
+
+changeset:   102:aad800bd5d11
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 18:14:28 2012 -0400
+summary:     minor changes
+
+changeset:   101:9b8a5a96b141
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Mon Apr 02 18:04:28 2012 -0400
+summary:     made constants static
+
+changeset:   100:aa76b33117ae
+user:        Jason Greaves
+date:        Sun Apr 01 22:09:47 2012 -0400
+summary:     Added an Undo and redo button
+
+changeset:   99:bbc85282b4ef
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 21:43:38 2012 -0400
+summary:     refactoring
+
+changeset:   98:12cc9402f9af
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 20:54:19 2012 -0400
+summary:     added test and a listener. Refactored GameUI slightly
+
+changeset:   97:e23dbd703671
+parent:      95:844262171410
+parent:      96:209fc6efb09c
+user:        Richard Laughlin
+date:        Sun Apr 01 19:26:50 2012 -0400
+summary:     merge
+
+changeset:   96:209fc6efb09c
+parent:      94:af254d8c1257
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 19:26:51 2012 -0400
+summary:     stuffs
+
+changeset:   95:844262171410
+user:        Richard Laughlin
+date:        Sun Apr 01 19:26:28 2012 -0400
+summary:     Added Javadoc comments to AIType and ChangePlayerRequestEvent, and GameModel. Also removed some unnecessary code from GameModel.
+
+changeset:   94:af254d8c1257
+parent:      93:10587de04551
+parent:      92:4da7e4331f63
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 19:22:28 2012 -0400
+summary:     merge
+
+changeset:   93:10587de04551
+parent:      91:1c2ec23bdde0
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 19:22:14 2012 -0400
+summary:     AllTests
+
+changeset:   92:4da7e4331f63
+user:        Jason Greaves
+date:        Sun Apr 01 19:21:25 2012 -0400
+summary:     Fixed exiting.
+
+changeset:   91:1c2ec23bdde0
+user:        Aaron D
+date:        Sun Apr 01 19:20:17 2012 -0400
+summary:     Two has become one
+
+changeset:   90:56b12d652b54
+user:        Jason Greaves
+date:        Sun Apr 01 19:12:21 2012 -0400
+summary:     Now I got this GUI working, dog.
+
+changeset:   89:994ab9add375
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 19:11:57 2012 -0400
+summary:     fixed move
+
+changeset:   88:8b99586a909c
+parent:      87:9829d89c9433
+parent:      84:549561648d06
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 19:09:08 2012 -0400
+summary:     merge
+
+changeset:   87:9829d89c9433
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 19:08:59 2012 -0400
+summary:     stuff
+
+changeset:   86:9660a3dba043
+parent:      85:4d0a8471de17
+parent:      82:49456ccf4c01
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 19:02:14 2012 -0400
+summary:     merge
+
+changeset:   85:4d0a8471de17
+parent:      81:e9c34c21a90a
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 19:02:00 2012 -0400
+summary:     fix null pointer in computerdif1
+
+changeset:   84:549561648d06
+parent:      83:2907b25ebd9f
+parent:      82:49456ccf4c01
+user:        Jonathon Shippling
+date:        Sun Apr 01 19:03:59 2012 -0400
+summary:     Merge
+
+changeset:   83:2907b25ebd9f
+parent:      81:e9c34c21a90a
+user:        Jonathon Shippling
+date:        Sun Apr 01 19:02:56 2012 -0400
+summary:     Fixed generateResponse
+
+changeset:   82:49456ccf4c01
+user:        Aaron D
+date:        Sun Apr 01 19:01:08 2012 -0400
+summary:     Progress on the movestacktest.  Fixe some nullpointers
+
+changeset:   81:e9c34c21a90a
+user:        Jason Greaves
+date:        Sun Apr 01 18:57:30 2012 -0400
+summary:     GameUI now takes in an Event dispatcher. BlankUI and HumanUI take in a model.
+
+changeset:   80:25b39bbd0c04
+user:        Jason Greaves
+date:        Sun Apr 01 18:56:30 2012 -0400
+summary:     GameUI now takes in an Event dispatcher. BlankUI and HumanUI take in a model.
+
+changeset:   79:64162f6d49b4
+parent:      78:e21c63043366
+parent:      77:b112ae4965a2
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 18:55:37 2012 -0400
+summary:     merge
+
+changeset:   78:e21c63043366
+parent:      76:3299b5217cdb
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 18:55:23 2012 -0400
+summary:     minor changes
+
+changeset:   77:b112ae4965a2
+user:        Jonathon Shippling
+date:        Sun Apr 01 18:54:09 2012 -0400
+summary:     Fixed javadoc errors
+
+changeset:   76:3299b5217cdb
+user:        Richard Laughlin
+date:        Sun Apr 01 18:51:35 2012 -0400
+summary:     Fixed a minor error
+
+changeset:   75:34a113f9dcaf
+user:        Richard Laughlin
+date:        Sun Apr 01 18:49:48 2012 -0400
+summary:     Removed the View events
+
+changeset:   74:244b7e45bb10
+user:        Richard Laughlin
+date:        Sun Apr 01 18:36:16 2012 -0400
+summary:     Fixed a minor typo in GameModel
+
+changeset:   73:d9f62276a927
+parent:      72:2bb7ee688020
+parent:      69:314a6c344b8a
+user:        Jonathon Shippling
+date:        Sun Apr 01 18:31:18 2012 -0400
+summary:     merge
+
+changeset:   72:2bb7ee688020
+parent:      71:729145300cc1
+parent:      66:3ffb3b52a05d
+user:        Jonathon Shippling
+date:        Sun Apr 01 18:31:01 2012 -0400
+summary:     merge
+
+changeset:   71:729145300cc1
+parent:      70:6109ceeec85d
+parent:      65:de3d1cdf69f4
+user:        Jonathon Shippling
+date:        Sun Apr 01 18:30:39 2012 -0400
+summary:     merge
+
+changeset:   70:6109ceeec85d
+parent:      62:9032e88c36a4
+user:        Jonathon Shippling
+date:        Sun Apr 01 18:28:09 2012 -0400
+summary:     Filled the rest of the generateResponse return moves with DarkGrey Color objects
+
+changeset:   69:314a6c344b8a
+parent:      68:8a7c2b5925aa
+parent:      66:3ffb3b52a05d
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 18:31:51 2012 -0400
+summary:     merge
+
+changeset:   68:8a7c2b5925aa
+parent:      67:07a150feff8d
+parent:      65:de3d1cdf69f4
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 18:30:48 2012 -0400
+summary:     merge
+
+changeset:   67:07a150feff8d
+parent:      64:49b6ecb2549a
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 18:30:40 2012 -0400
+summary:     moved docs
+
+changeset:   66:3ffb3b52a05d
+parent:      63:5e81b09031fe
+parent:      65:de3d1cdf69f4
+user:        Richard Laughlin
+date:        Sun Apr 01 18:30:17 2012 -0400
+summary:     merge commit
+
+changeset:   65:de3d1cdf69f4
+user:        Aaron D
+date:        Sun Apr 01 18:28:41 2012 -0400
+summary:     MoveStacks and stuff.  Pay no attention to the MoveStackTest
+
+changeset:   64:49b6ecb2549a
+parent:      62:9032e88c36a4
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 18:28:37 2012 -0400
+summary:     client and javadoc
+
+changeset:   63:5e81b09031fe
+parent:      62:9032e88c36a4
+parent:      54:67331d7e3ba1
+user:        Richard Laughlin
+date:        Sun Apr 01 18:28:35 2012 -0400
+summary:     merge commit
+
+changeset:   62:9032e88c36a4
+user:        Jason Greaves
+date:        Sun Apr 01 18:14:01 2012 -0400
+summary:     Why didn't I push this earlier. Changes all those feedback boxes into an array.
+
+changeset:   61:072c7eeccee8
+parent:      60:e87a1f161345
+parent:      58:3ed4f25af6f9
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 18:10:10 2012 -0400
+summary:     merge
+
+changeset:   60:e87a1f161345
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 18:09:56 2012 -0400
+summary:     more log fixes
+
+changeset:   59:5787f937c668
+parent:      56:01a25b577c38
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 18:08:37 2012 -0400
+summary:     no longer tried logging without logging being on
+
+changeset:   58:3ed4f25af6f9
+parent:      57:52909ac053a2
+parent:      56:01a25b577c38
+user:        Jonathon Shippling
+date:        Sun Apr 01 18:03:30 2012 -0400
+summary:     merge
+
+changeset:   57:52909ac053a2
+parent:      53:0ad9ce5fbb86
+user:        Jonathon Shippling
+date:        Sun Apr 01 18:02:41 2012 -0400
+summary:     Cleaned up the easy and jedi computer difficulties, changed IPlayer to match function return types
+
+changeset:   56:01a25b577c38
+parent:      55:9d140439963c
+parent:      53:0ad9ce5fbb86
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 18:01:23 2012 -0400
+summary:     merge
+
+changeset:   55:9d140439963c
+parent:      50:00ea41499627
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 18:01:12 2012 -0400
+summary:     added unit test
+
+changeset:   54:67331d7e3ba1
+user:        Richard Laughlin
+date:        Sun Apr 01 18:11:04 2012 -0400
+summary:     Moved the ViewEvents to gui/event.
+
+changeset:   53:0ad9ce5fbb86
+user:        Richard Laughlin
+date:        Sun Apr 01 17:52:00 2012 -0400
+summary:     Finished the ComputerWatcher, removed the Observable from GameModel, and added a MoveUndoneEvent.
+
+changeset:   52:b789237417df
+parent:      51:516a3789a2cc
+parent:      50:00ea41499627
+user:        Richard Laughlin
+date:        Sun Apr 01 17:37:59 2012 -0400
+summary:     Merge commit.
+
+changeset:   51:516a3789a2cc
+parent:      48:c67364c35309
+user:        Richard Laughlin
+date:        Sun Apr 01 17:37:36 2012 -0400
+summary:     Removed the timer.
+
+changeset:   50:00ea41499627
+parent:      49:4b2d2c16176d
+parent:      48:c67364c35309
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 17:30:19 2012 -0400
+summary:     merge
+
+changeset:   49:4b2d2c16176d
+parent:      47:3cad9d666d5c
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sun Apr 01 17:30:09 2012 -0400
+summary:     fixed up computerdef1, and added some variables to game model
+
+changeset:   48:c67364c35309
+user:        Richard Laughlin
+date:        Sun Apr 01 17:19:17 2012 -0400
+summary:     Moved some events around.
+
+changeset:   47:3cad9d666d5c
+user:        Jason Greaves
+date:        Sun Apr 01 14:31:19 2012 -0400
+summary:     Did some work with the MoveViewer.
+
+changeset:   46:7af53858f1a6
+user:        Jasong@Jasong-PC.student.rit.edu.
+date:        Sun Apr 01 09:16:10 2012 -0400
+summary:     Added what I have with the UI to the hg repo. The InputUI is close to finished if not.
+
+changeset:   45:32d1dff20cd1
+user:        Richard Laughlin
+date:        Sat Mar 31 19:27:06 2012 -0400
+summary:     Added the basic logic to GameModel. Still requires some of the actual event based responses. Changed the IPlayer interface so that generateCode returns the generated code. Fixed some minor issues in the MoveStack and added a few methods to make it more useful. Did some touchup commenting on some events.
+
+changeset:   44:637aeb291f86
+user:        Richard Laughlin
+date:        Sat Mar 31 18:53:10 2012 -0400
+summary:     Fixed some errors in MoveStack and ComputerDif1. Moved some stuff around, and readded my Timer class.
+
+changeset:   43:faaa95ef6a37
+parent:      42:1dfe7e54766a
+parent:      39:07d16dfa4a3e
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 11:52:01 2012 -0400
+summary:     merge
+
+changeset:   42:1dfe7e54766a
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 11:51:48 2012 -0400
+summary:     fixed up movestack
+
+changeset:   41:2c9475000add
+parent:      40:98c72ca14cee
+parent:      37:90b9dc9f9513
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 11:49:45 2012 -0400
+summary:     merge
+
+changeset:   40:98c72ca14cee
+parent:      35:cd2320e4e041
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 11:41:34 2012 -0400
+summary:     removed junk files
+
+changeset:   39:07d16dfa4a3e
+parent:      38:f6bbc3bfbeb7
+parent:      37:90b9dc9f9513
+user:        Jonathon Shippling
+date:        Sat Mar 31 11:50:42 2012 -0400
+summary:     Implemented random guessing
+
+changeset:   38:f6bbc3bfbeb7
+parent:      33:417f5a404c13
+user:        Jonathon Shippling
+date:        Sat Mar 31 11:50:14 2012 -0400
+summary:     Implemented guess
+
+changeset:   37:90b9dc9f9513
+parent:      36:80ff634e1762
+parent:      35:cd2320e4e041
+user:        Aaron D
+date:        Sat Mar 31 11:48:17 2012 -0400
+summary:     merge
+
+changeset:   36:80ff634e1762
+parent:      33:417f5a404c13
+user:        Aaron D
+date:        Sat Mar 31 11:45:19 2012 -0400
+summary:     MoveStack worked out
+
+changeset:   35:cd2320e4e041
+parent:      34:7ba644e55e74
+parent:      33:417f5a404c13
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 11:39:04 2012 -0400
+summary:     merge
+
+changeset:   34:7ba644e55e74
+parent:      31:f1955014c7a1
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 11:38:05 2012 -0400
+summary:     changed move to varargs
+
+changeset:   33:417f5a404c13
+parent:      32:b047994a59c2
+parent:      31:f1955014c7a1
+user:        Jonathon Shippling
+date:        Sat Mar 31 11:30:12 2012 -0400
+summary:     Merge
+
+changeset:   32:b047994a59c2
+parent:      29:d24212a071b8
+user:        Jonathon Shippling
+date:        Sat Mar 31 11:28:03 2012 -0400
+summary:     Updated imports
+
+changeset:   31:f1955014c7a1
+parent:      30:523164b35668
+parent:      29:d24212a071b8
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 11:25:43 2012 -0400
+summary:     merge
+
+changeset:   30:523164b35668
+parent:      25:7f6301dbd40c
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 11:18:23 2012 -0400
+summary:     change of breaker works
+
+changeset:   29:d24212a071b8
+parent:      28:646cb59934c7
+parent:      25:7f6301dbd40c
+user:        Jonathon Shippling
+date:        Sat Mar 31 11:24:10 2012 -0400
+summary:     Merge
+
+changeset:   28:646cb59934c7
+user:        Jonathon Shippling
+date:        Sat Mar 31 11:22:29 2012 -0400
+summary:     Merge
+
+changeset:   27:17f5620b2327
+user:        Jonathon Shippling
+date:        Sat Mar 31 11:14:45 2012 -0400
+summary:     Created the framework for the easy computer difficulty
+
+changeset:   26:acc543a2b529
+parent:      15:a3ea3e26c2bc
+user:        Jonathon Shippling
+date:        Sat Mar 31 11:07:22 2012 -0400
+summary:     Interface created for IPlayer
+
+changeset:   25:7f6301dbd40c
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 11:15:36 2012 -0400
+summary:     fixed up move
+
+changeset:   24:d013b54de95a
+user:        Aaron D
+date:        Sat Mar 31 11:08:03 2012 -0400
+summary:     I love junkfiles!
+
+changeset:   23:b5fd629cd0dd
+parent:      22:6a08d8771973
+parent:      19:2fa886fccfa6
+user:        Aaron D
+date:        Sat Mar 31 11:05:42 2012 -0400
+summary:     merge
+
+changeset:   22:6a08d8771973
+parent:      21:792d4046778f
+parent:      18:c1ff1d2a71fe
+user:        Aaron D
+date:        Sat Mar 31 11:04:52 2012 -0400
+summary:     merge
+
+changeset:   21:792d4046778f
+user:        Aaron D
+date:        Sat Mar 31 11:04:35 2012 -0400
+summary:     This is Sparta
+
+changeset:   20:315b27a870c1
+parent:      7:cb75c38dc16b
+user:        Aaron D
+date:        Sat Mar 31 10:50:36 2012 -0400
+summary:     Move is mostly done, movestack needs work
+
+changeset:   19:2fa886fccfa6
+parent:      18:c1ff1d2a71fe
+parent:      17:f856582290f4
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 10:55:55 2012 -0400
+summary:     merge
+
+changeset:   18:c1ff1d2a71fe
+parent:      15:a3ea3e26c2bc
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 10:52:13 2012 -0400
+summary:     will interprate correctly
+
+changeset:   17:f856582290f4
+user:        Richard Laughlin
+date:        Sat Mar 31 10:49:28 2012 -0400
+summary:     Removed the Game.java class because it was renamed to GameModel.
+
+changeset:   16:2571947702e2
+user:        Richard Laughlin
+date:        Sat Mar 31 10:48:09 2012 -0400
+summary:     Adds the EventDispatch, the ModelEvent interface, and a couple basic events. Aslo renames the Game class to GameModel. Further it adds a .hgignore to ignore some eclipse related files. Finally, added the inherited methods for HumanUI and BlankUI.
+
+changeset:   15:a3ea3e26c2bc
+user:        BASED GOD@BASEDGOD-PC
+date:        Sat Mar 31 10:41:46 2012 -0400
+summary:     test
+
+changeset:   14:c5dd040face8
+user:        Jasong@Jasong-PC.student.rit.edu.
+date:        Sat Mar 31 10:30:58 2012 -0400
+summary:     Pushing again
+
+changeset:   13:20e851d43af5
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 10:27:16 2012 -0400
+summary:     remvoe files
+
+changeset:   12:fb65e4adb88d
+parent:      11:e643fe1d6524
+parent:      8:0cae1e46aab4
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 10:24:53 2012 -0400
+summary:     branch merge
+
+changeset:   11:e643fe1d6524
+parent:      10:1a57cfd57405
+parent:      7:cb75c38dc16b
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 10:24:39 2012 -0400
+summary:     merging
+
+changeset:   10:1a57cfd57405
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 10:15:39 2012 -0400
+summary:     removed files
+
+changeset:   9:93f259f466b5
+parent:      3:bbb979d1e7df
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 10:12:23 2012 -0400
+summary:     cmd test
+
+changeset:   8:0cae1e46aab4
+parent:      0:99a9d3d42bc9
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 10:21:22 2012 -0400
+summary:     stuffs
+
+changeset:   7:cb75c38dc16b
+parent:      6:99f49904761a
+parent:      5:c77b10c9d2a4
+user:        Aaron D
+date:        Sat Mar 31 10:17:33 2012 -0400
+summary:     merge
+
+changeset:   6:99f49904761a
+parent:      2:d7e1eb3abefa
+user:        Aaron D
+date:        Sat Mar 31 10:10:49 2012 -0400
+summary:     Test commit
+
+changeset:   5:c77b10c9d2a4
+user:        Jasong@Jasong-PC.student.rit.edu.
+date:        Sat Mar 31 10:17:06 2012 -0400
+summary:     Jason is pushing, yo.
+
+changeset:   4:1bee603c6dba
+user:        Jasong@Jasong-PC.rh.rit.edu
+date:        Sat Mar 31 10:15:24 2012 -0400
+summary:     Jason is pushing, yo.
+
+changeset:   3:bbb979d1e7df
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Sat Mar 31 10:08:29 2012 -0400
+summary:     more log stuff
+
+changeset:   2:d7e1eb3abefa
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Fri Mar 30 11:01:48 2012 -0400
+summary:     wrote log structure
+
+changeset:   1:ae8b3627f4ef
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Fri Mar 30 10:28:31 2012 -0400
+summary:     added code structure
+
+changeset:   0:99a9d3d42bc9
+user:        Daniel Wallach <dywallach@dywallach.net>
+date:        Thu Mar 29 09:00:32 2012 -0400
+summary:     First commit
+
